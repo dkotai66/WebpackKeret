@@ -2,7 +2,9 @@
     float: left;
 }
 
-
+#lorem{
+    text-align: justify;
+}
 
 .imgFloating{
    text-align: center;
