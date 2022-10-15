@@ -1,8 +1,13 @@
-#cuteGoat{
+#picture{
     float: left;
+    width: 70%;
 }
 
-#lorem{
+.picture-active{
+    float: right;
+}
+
+#text{
     text-align: justify;
 }
 
@@ -12,3 +17,8 @@
    padding-bottom: 1rem;
 }
 
+
+
+footer{
+    text-align: center;
+}
