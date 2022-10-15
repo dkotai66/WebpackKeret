@@ -1,8 +1,13 @@
-#cuteGoat{
+#picture{
     float: left;
+    width: 70%;
 }
 
-#lorem{
+.picture-active{
+    float: right;
+}
+
+#text{
     text-align: justify;
 }
 
@@ -13,6 +18,10 @@
 }
 
 
+
+footer{
+    text-align: center;
+}
 @charset "UTF-8";
 /*!
  * Bootstrap  v5.2.1 (https://getbootstrap.com/)
